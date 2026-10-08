@@ -1,0 +1,4 @@
+node_modules/
+.wrangler/
+dist/
+src/worker.b64.txt
